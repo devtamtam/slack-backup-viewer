@@ -1,4 +1,4 @@
-# Backup Viewer
+#slack-Backup-Viewer
 
 Backup Viewer is a tool designed to visualize and manage backups created by the `slack_convosaver` tool. It provides a user-friendly interface to browse and interact with archived Slack conversations and their associated files.
 
