@@ -30,7 +30,10 @@ Backup Viewer is a tool designed to visualize and manage backups created by the 
 
 4. Open your browser and navigate to `http://localhost:3000` to view and interact with the backups.
 
-5. And open json file from `public/Backup/`
+5. Open json file from **Load Chat BackUP**
+
+![image](https://github.com/user-attachments/assets/cffeea17-ec00-488c-ab58-4d8672985966)
+
 
 ## Interaction with `slack_convosaver`
 
